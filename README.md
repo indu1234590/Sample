@@ -7,8 +7,13 @@ Instructions: Implement manual string traversal and counting logic to solve the 
 
 STEPS:
 Install Git Bash
+
  Enter the code in the notepad and save in the folder by “.sh”
+ 
  Right-click inside the folder and select Git Bash.
+ 
 COMMANDS:
+
  chmod +x find_non_repeating.sh
+ 
  ./find_non_repeating.sh
